@@ -10,7 +10,7 @@
 
 The full training notebook with all outputs, plots, and results is available here:
 
-[View Kaggle Notebook](https://www.kaggle.com/your-notebook-link-here)
+[View Kaggle Notebook](https://www.kaggle.com/code/gkkumar7383fuck/project)
 
 ---
 
